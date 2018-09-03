@@ -1,0 +1,31 @@
+.clearfix{
+    width:100%;
+    clear:both;
+}
+.wrapper{
+    height:400px;
+    width:450px;
+    margin-top:80px;
+    border: 2px solid #000;
+    margin-left:33%;
+    background:#fa6800;
+}
+.Form{
+    height:300px;
+    width:350px;
+    margin-top:50px;
+    margin-left:50px;
+    background:#fff;
+}
+.Style{
+    margin-left:1px;
+    font-size:30px;
+    /* padding:10px; */
+}
+.adjust{
+    margin-top:-3px;
+}
+.btnstyle{
+    margin-left:30px;
+    height:32px;
+}
